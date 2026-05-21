@@ -6,7 +6,7 @@ Este Repositorio esta destinado al módulo 3 de la materia 'Técnicas y herramie
 
 Los archivos pueden ser descargados mediante los siguientes atajos:
 
-[Para descargar el informe de uso de simul8 en PDF] ()
+[Para descargar el informe de uso de simul8 en PDF] (https://github.com/anagodoyy85/modulo_3/blob/main/Modulo3_SIMUL8__JoulieFaraday%20(1).pdf)
 
 [Para descargar el archivo zip. del informe] (https://github.com/anagodoyy85/modulo_3/blob/main/Modulo3_SIMUL8__JoulieFaraday.zip)
 
