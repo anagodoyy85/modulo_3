@@ -8,6 +8,6 @@ Los archivos pueden ser descargados mediante los siguientes atajos:
 
 [Para descargar el informe de uso de simul8 en PDF] ()
 
-[Para descargar el archivo zip. del informe] ()
+[Para descargar el archivo zip. del informe] (https://github.com/anagodoyy85/modulo_3/blob/main/Modulo3_SIMUL8__JoulieFaraday.zip)
 
 [Archivo SIMUL8] (https://github.com/anagodoyy85/modulo_3/blob/main/simulacion_azucar_JF.S8)
